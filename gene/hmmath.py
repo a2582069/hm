@@ -14,7 +14,9 @@ def hm_random(a,b,c):
     cz = b - a
     num = cz*num + a
     if c == 1:
-        return random.randint(a, b)
+        if num - int(num) >= 0.5:
+            num = int(num) + 1
+        else :num = int(num)
     else:num = num
     return num
 #**************hm_plt***********************************************
@@ -35,7 +37,7 @@ def hm_plt(x,ispause):
 def test_hm_random():
         num_list = []
         num_tj = [0,0,0,0,0,0,0,0,0,0,0]
-        for eee in range(11):
+        for eee in range(1100):
             for x in range(100):
                 num_list.append(hm_random(0,10,1))
             num_list.sort()
@@ -93,4 +95,3 @@ def test_hm_random():
 
 if __name__ == '__main__':
     print 1
-    test_hm_random()
