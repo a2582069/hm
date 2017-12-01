@@ -14,9 +14,7 @@ def hm_random(a,b,c):
     cz = b - a
     num = cz*num + a
     if c == 1:
-        if num - int(num) >= 0.5:
-            num = int(num) + 1
-        else :num = int(num)
+        return random.randint(a, b)
     else:num = num
     return num
 #**************hm_plt***********************************************
