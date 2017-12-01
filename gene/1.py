@@ -23,6 +23,16 @@ def _easy_wei(gn,a,b,c,d,e,isprint = None):
 
     return 0
 
+def _easy_score(a,price):
+    most = 0
+    for i in a:
+        e = iter(price)
+        for j in i:
+            most  = most + j * e.next()
+            #print most
+    print u'这次计算总score='+str(most)
+    return most
+
 if __name__ == '__main__':
     weight = []
     price= []
@@ -42,3 +52,5 @@ if __name__ == '__main__':
     gene_b = _easy_wei(1,gene_b,sj3,sj4,0,0)
     print gene_a
     print gene_b
+    qun = [gene_a,gene_b]
+    _easy_score(qun,price)
