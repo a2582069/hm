@@ -1,0 +1,285 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>Èí¼þÏÂÔØÆ½Ì¨ - ÂÌÉ«Èí¼þÁªÃË</title>
+<link href="/skin/x/public.css" type="text/css" rel="stylesheet">
+<meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,minimum-scale=1.0,user-scalable=no" />
+<script type="text/javascript"> 
+   function clearDefault(el) { 
+if (el.defaultValue==el.value) el.value = "" 
+   } 
+</script> 
+</head>
+<body>
+<div id="wrapper">
+	<!-- S Í·²¿ÇøÓò -->
+	<div id="header">
+	  <div id="top_logo"><a href="http://www.xdowns.com">XdownsÂÌÃË</a></div>
+		<div id="top_search">
+<form name="dataform"   action="http://tag.xdowns.com/tag.asp">
+			<div class="search_bar">
+				<input name="keyword"  class="input_tx" onfocus="clearDefault(this)" value="ÊäÈë¹Ø¼ü´Ê£¨²»´ø°æ±¾ºÅ  ¾¡Á¿¼òµ¥£©"/>
+				
+				<a href="javascript:document.dataform.submit()" class="btn_search">ËÑË÷</a>
+			</div>
+
+			</form>
+	
+			<div class="tag_list">ÈÈÃÅËÑË÷£º<script src="/js/hot.js" type="text/javascript"></script></div>
+</div>		<div id="top_nav">
+			<ul class="main_nav">
+				<li class="current"><a href="http://www.xdowns.com/"><span>Ê×Ò³</span></a></li>
+				 
+<li><a href="http://www.xdowns.com/soft/6/"><span>ÏµÍ³¹¤¾ß</span></a></li>
+<li><a href="http://www.xdowns.com/soft/4/"><span>Ó¦ÓÃÈí¼þ</span></a></li>
+<li><a href="http://www.xdowns.com/soft/1/"><span>ÍøÂç¹¤¾ß</span></a></li>
+<li><a href="http://www.xdowns.com/soft/10/"><span>¶àÃ½ÌåÀà</span></a></li>
+<li><a href="http://www.xdowns.com/soft/31/"><span>Í¼ÏñÍ¼ÐÎ</span></a></li>
+				<li><a href="http://www.xdowns.com/soft/184/Mobile/"><span>ÊÖ»úÈí¼þ</span></a></li>
+				
+				<li><a href="http://www.xdowns.com/soft/27/"><span>ÓÎÏ·ÏÂÔØ</span></a></li>
+				<li><a href="http://www.xdowns.com/soft/184/apple/"><span>Æ»¹ûmac</span></a></li>
+                                                                
+
+
+
+
+
+				
+			</ul>
+			<div class="link_box"><a href="http://www.xdowns.com/article/">ÎÄÕÂ</a></div>
+		</div>
+	</div>
+	<!-- E Í·²¿ÇøÓò -->	<!-- S ÄÚÈÝÇøÓò -->
+	<div id="page_content">
+		
+		<!-- S part_2 -->
+		<div class="layout_b" id="part_2">
+			<div class="col_main">
+				<div class="layout_b_1">
+					<div class="col_b">
+						<!-- S ×îÐÂ¸üÐÂ -->
+						<div class="box_style_a" id="mod_555">
+							<div class="hd">
+								<h3><a href="/soft/rssfeednew.asp">×îÐÂ¸üÐÂRSS</a></h3>
+								<div class="extra"><a href="/soft/special/Soft_New001.html" class="more">¸ü¶à>></a></div>
+							</div>
+							<div class="bd">
+								<ul class="tx_list_1">
+
+										
+	<li> [<a href='/soft/27/59/index.html' class="node_link">ÓÎÏ·¹¤¾ß</a>]  <a href='/soft/27/59/2017/Soft_237504.html' target="_blank" class="item_link" title='Èí¼þÃû³Æ£º½£Èý¿Æ¾Ù´ðÌâÆ÷&#13;&#10;·¢²¼Ê±¼ä£º2017/9/5 15:13:25'>½£Èý¿Æ¾Ù´ðÌâÆ÷</a>
+	<span class="date"><font color='#FF0066'>09-05</font></span>
+
+	<li> [<a href='/soft/6/drivers/index.html' class="node_link">Çý¶¯³ÌÐò</a>]  <a href='/soft/6/drivers/2017/Soft_237500.html' target="_blank" class="item_link" title='Èí¼þÃû³Æ£ºÀ×°Ø1800Çý¶¯&#13;&#10;·¢²¼Ê±¼ä£º2017/9/5 15:09:45'>À×°Ø1800Çý¶¯</a>
+	<span class="date"><font color='#FF0066'>09-05</font></span>
+
+	<li> [<a href='/soft/6/drivers/index.html' class="node_link">Çý¶¯³ÌÐò</a>]  <a href='/soft/6/drivers/2017/Soft_237493.html' target="_blank" class="item_link" title='Èí¼þÃû³Æ£ºÁªÏëy450ÏÔ¿¨Çý¶¯ win7/win8&#13;&#10;·¢²¼Ê±¼ä£º2017/9/5 15:05:08'>ÁªÏëy450ÏÔ¿¨Çý¶¯ win7/win8</a>
+	<span class="date"><font color='#FF0066'>09-05</font></span>
+
+	<li> [<a href='/soft/4/108/index.html' class="node_link">×ÖÌå¹¤¾ß</a>]  <a href='/soft/4/108/2017/Soft_237490.html' target="_blank" class="item_link" title='Èí¼þÃû³Æ£ºÖÐ¹úÁúÓ¨×­Ìå-ÖÐÎÄ×ÖÌå&#13;&#10;·¢²¼Ê±¼ä£º2017/9/5 15:02:18'>ÖÐ¹úÁúÓ¨×­Ìå-ÖÐÎÄ×ÖÌå</a>
+	<span class="date"><font color='#FF0066'>09-05</font></span>
+
+	<li> [<a href='/soft/188/215/index.html' class="node_link">°ì¹«Èí¼þ</a>]  <a href='/soft/188/215/2017/Soft_237487.html' target="_blank" class="item_link" title='Èí¼þÃû³Æ£ºsaveaspdfandxps²å¼þ_word×ªPDF²å¼þ&#13;&#10;·¢²¼Ê±¼ä£º2017/9/5 15:01:37'>saveaspdfandxps²å¼þ_word×ªPDF²å¼þ</a>
+	<span class="date"><font color='#FF0066'>09-05</font></span>
+
+	<li> [<a href='/soft/4/108/index.html' class="node_link">×ÖÌå¹¤¾ß</a>]  <a href='/soft/4/108/2017/Soft_237482.html' target="_blank" class="item_link" title='Èí¼þÃû³Æ£ºÎ¢Èí¼òÐÐ¿¬-ÖÐÎÄ×ÖÌå&#13;&#10;·¢²¼Ê±¼ä£º2017/9/5 14:58:36'>Î¢Èí¼òÐÐ¿¬-ÖÐÎÄ×ÖÌå</a>
+	<span class="date"><font color='#FF0066'>09-05</font></span>
+
+	<li> [<a href='/soft/6/drivers/index.html' class="node_link">Çý¶¯³ÌÐò</a>]  <a href='/soft/6/drivers/2017/Soft_237481.html' target="_blank" class="item_link" title='Èí¼þÃû³Æ£ºoki5500f´òÓ¡»úÇý¶¯ 6.2&#13;&#10;·¢²¼Ê±¼ä£º2017/9/5 14:58:20'>oki5500f´òÓ¡»úÇý¶¯ 6.2</a>
+	<span class="date"><font color='#FF0066'>09-05</font></span>
+
+	<li> [<a href='/soft/6/54/index.html' class="node_link">ÏµÍ³²âÊÔ</a>]  <a href='/soft/6/54/2017/Soft_237476.html' target="_blank" class="item_link" title='Èí¼þÃû³Æ£ºdeadpixeltest 2.0 ºº»¯°æ_µ¥·´Ïà»úCCD»µµã¼ì²â¹¤¾ß&#13;&#10;·¢²¼Ê±¼ä£º2017/9/5 14:54:50'>deadpixeltest 2.0 ºº»¯°æ_µ¥·´Ïà»úCCD»µµã¼ì²â¹¤¾ß</a>
+	<span class="date"><font color='#FF0066'>09-05</font></span>
+
+	<li> [<a href='/soft/31/52/index.html' class="node_link">Í¼±ê¹¤¾ß</a>]  <a href='/soft/31/52/2017/Soft_237473.html' target="_blank" class="item_link" title='Èí¼þÃû³Æ£º½ÅÌ¤³µÏµÁÐÐ¡Í¼±ê V0905 ÂÌÉ«°æ&#13;&#10;·¢²¼Ê±¼ä£º2017/9/5 14:53:01'>½ÅÌ¤³µÏµÁÐÐ¡Í¼±ê V0905 ÂÌÉ«°æ</a>
+	<span class="date"><font color='#FF0066'>09-05</font></span>
+
+	<li> [<a href='/soft/27/59/index.html' class="node_link">ÓÎÏ·¹¤¾ß</a>]  <a href='/soft/27/59/2017/Soft_237469.html' target="_blank" class="item_link" title='Èí¼þÃû³Æ£ºeasykey 4.8.9_Ä§ÊÞÕù°ÔÏÔÑª¸Ä¼ü¹¤¾ß&#13;&#10;·¢²¼Ê±¼ä£º2017/9/5 14:51:24'>easykey 4.8.9_Ä§ÊÞÕù°ÔÏÔÑª¸Ä¼ü¹¤¾ß</a>
+	<span class="date"><font color='#FF0066'>09-05</font></span>
+
+	<li> [<a href='/soft/4/108/index.html' class="node_link">×ÖÌå¹¤¾ß</a>]  <a href='/soft/4/108/2017/Soft_237467.html' target="_blank" class="item_link" title='Èí¼þÃû³Æ£ºÃÉÄÉ¼òÊ¯Ó¡Ìå×ÖÌå¹¤¾ß 2017&#13;&#10;·¢²¼Ê±¼ä£º2017/9/5 14:49:02'>ÃÉÄÉ¼òÊ¯Ó¡Ìå×ÖÌå¹¤¾ß 2017</a>
+	<span class="date"><font color='#FF0066'>09-05</font></span>
+
+	<li> [<a href='/soft/17/18/index.html' class="node_link">²ÆÎñ¹ÜÀí</a>]  <a href='/soft/17/18/2017/Soft_237465.html' target="_blank" class="item_link" title='Èí¼þÃû³Æ£ºÆôÑ¶³¬ÊÐPOSÏúÊÛÏµÍ³ v9.9 ¹Ù·½°æ&#13;&#10;·¢²¼Ê±¼ä£º2017/9/5 14:47:48'>ÆôÑ¶³¬ÊÐPOSÏúÊÛÏµÍ³ v9.9 ¹Ù·½°æ</a>
+	<span class="date"><font color='#FF0066'>09-05</font></span>
+
+	<li> [<a href='/soft/31/52/index.html' class="node_link">Í¼±ê¹¤¾ß</a>]  <a href='/soft/31/52/2017/Soft_237463.html' target="_blank" class="item_link" title='Èí¼þÃû³Æ£ºÎÄ¼þÍ¼±êÌáÈ¡¹¤¾ß v1.0 µ¥ÎÄ¼þ°æ_ÎÄ¼þÍ¼±êÌáÈ¡Ð¡³ÌÐò&#13;&#10;·¢²¼Ê±¼ä£º2017/9/5 14:46:56'>ÎÄ¼þÍ¼±êÌáÈ¡¹¤¾ß v1.0 µ¥ÎÄ¼þ°æ_ÎÄ¼þÍ¼±êÌáÈ¡Ð¡³ÌÐò</a>
+	<span class="date"><font color='#FF0066'>09-05</font></span>
+
+	<li> [<a href='/soft/6/65/index.html' class="node_link">ÏµÍ³ÔöÇ¿</a>]  <a href='/soft/6/65/2017/Soft_237457.html' target="_blank" class="item_link" title='Èí¼þÃû³Æ£ºÎò¿Õ×°»ú´óÊ¦ v2.0.0.3 ¹Ù·½°æ_ÏµÍ³ÖØ×°Èí¼þ&#13;&#10;·¢²¼Ê±¼ä£º2017/9/5 14:43:26'>Îò¿Õ×°»ú´óÊ¦ v2.0.0.3 ¹Ù·½°æ_ÏµÍ³ÖØ×°Èí¼þ</a>
+	<span class="date"><font color='#FF0066'>09-05</font></span>
+
+	<li> [<a href='/soft/17/50/index.html' class="node_link">ÉÌÒµÃ³Ò×</a>]  <a href='/soft/17/50/2017/Soft_237456.html' target="_blank" class="item_link" title='Èí¼þÃû³Æ£ºÆôÑ¶·þ×°ÏúÊÛ¹ÜÀíÏµÍ³ 4.6 ±ê×¼°æ&#13;&#10;·¢²¼Ê±¼ä£º2017/9/5 14:43:22'>ÆôÑ¶·þ×°ÏúÊÛ¹ÜÀíÏµÍ³ 4.6 ±ê×¼°æ</a>
+	<span class="date"><font color='#FF0066'>09-05</font></span>
+
+	<li> [<a href='/soft/31/109/index.html' class="node_link">3DÖÆ×÷Àà</a>]  <a href='/soft/31/109/2017/Soft_237452.html' target="_blank" class="item_link" title='Èí¼þÃû³Æ£ºpose studio v1.0.4 ÖÐÎÄÃâ·Ñ°æ_3dÄ£ÐÍ¶¯×÷ÖÆ×÷Èí¼þ&#13;&#10;·¢²¼Ê±¼ä£º2017/9/5 14:41:07'>pose studio v1.0.4 ÖÐÎÄÃâ·Ñ°æ_3dÄ£ÐÍ¶¯×÷ÖÆ×÷Èí¼þ</a>
+	<span class="date"><font color='#FF0066'>09-05</font></span>
+
+	<li> [<a href='/soft/17/61/index.html' class="node_link">²Ö´¢×â½è</a>]  <a href='/soft/17/61/2017/Soft_237449.html' target="_blank" class="item_link" title='Èí¼þÃû³Æ£ºÆôÑ¶Íø°É¹ÜÀíÏµÍ³ v4.7 ¹Ù·½°æ&#13;&#10;·¢²¼Ê±¼ä£º2017/9/5 14:40:39'>ÆôÑ¶Íø°É¹ÜÀíÏµÍ³ v4.7 ¹Ù·½°æ</a>
+	<span class="date"><font color='#FF0066'>09-05</font></span>
+
+	<li> [<a href='/soft/6/drivers/index.html' class="node_link">Çý¶¯³ÌÐò</a>]  <a href='/soft/6/drivers/2017/Soft_237445.html' target="_blank" class="item_link" title='Èí¼þÃû³Æ£ºOKI C332´òÓ¡»úÇý¶¯ V1.0 ¹Ù·½°æ&#13;&#10;·¢²¼Ê±¼ä£º2017/9/5 14:38:50'>OKI C332´òÓ¡»úÇý¶¯ V1.0 ¹Ù·½°æ</a>
+	<span class="date"><font color='#FF0066'>09-05</font></span>
+
+	<li> [<a href='/soft/188/share/index.html' class="node_link">×ÊÁÏÎÄµµ</a>]  <a href='/soft/188/share/2017/Soft_237442.html' target="_blank" class="item_link" title='Èí¼þÃû³Æ£ºµõ×¹×°ÊÎÆ·PS±ÊË¢ v1.0 Ãâ·Ñ°æ&#13;&#10;·¢²¼Ê±¼ä£º2017/9/5 14:36:28'>µõ×¹×°ÊÎÆ·PS±ÊË¢ v1.0 Ãâ·Ñ°æ</a>
+	<span class="date"><font color='#FF0066'>09-05</font></span>
+
+	<li> [<a href='/soft/4/25/index.html' class="node_link">ÔÓÀà¹¤¾ß</a>]  <a href='/soft/4/25/2017/Soft_237440.html' target="_blank" class="item_link" title='Èí¼þÃû³Æ£ºÆóÒµÖ°¹¤Èëµ³ÉêÇëÊé·¶ÎÄ 2017&#13;&#10;·¢²¼Ê±¼ä£º2017/9/5 14:33:46'>ÆóÒµÖ°¹¤Èëµ³ÉêÇëÊé·¶ÎÄ 2017</a>
+	<span class="date"><font color='#FF0066'>09-05</font></span>
+
+	<li> [<a href='/soft/6/drivers/index.html' class="node_link">Çý¶¯³ÌÐò</a>]  <a href='/soft/6/drivers/2017/Soft_237438.html' target="_blank" class="item_link" title='Èí¼þÃû³Æ£ºÂÞ¼¼k310Ë®Ï´¼üÅÌÇý¶¯ 6.67&#13;&#10;·¢²¼Ê±¼ä£º2017/9/5 14:30:27'>ÂÞ¼¼k310Ë®Ï´¼üÅÌÇý¶¯ 6.67</a>
+	<span class="date"><font color='#FF0066'>09-05</font></span>
+
+	<li> [<a href='/soft/4/5/index.html' class="node_link">ÎÄ¼þ¹ÜÀí</a>]  <a href='/soft/4/5/2017/Soft_237437.html' target="_blank" class="item_link" title='Èí¼þÃû³Æ£ºÎÄ¼þ¹ÜÀíÆ÷FAR Manager(64Î») v3.0.5019 ÂÌÉ«°æ&#13;&#10;·¢²¼Ê±¼ä£º2017/9/5 14:29:11'>ÎÄ¼þ¹ÜÀíÆ÷FAR Manager(64Î») v3.0.5019 ÂÌÉ«°æ</a>
+	<span class="date"><font color='#FF0066'>09-05</font></span>
+
+	<li> [<a href='/soft/6/drivers/index.html' class="node_link">Çý¶¯³ÌÐò</a>]  <a href='/soft/6/drivers/2017/Soft_237434.html' target="_blank" class="item_link" title='Èí¼þÃû³Æ£ºhp cq45Éù¿¨Çý¶¯ for xp&#13;&#10;·¢²¼Ê±¼ä£º2017/9/5 14:26:35'>hp cq45Éù¿¨Çý¶¯ for xp</a>
+	<span class="date"><font color='#FF0066'>09-05</font></span>
+
+	<li> [<a href='/soft/6/drivers/index.html' class="node_link">Çý¶¯³ÌÐò</a>]  <a href='/soft/6/drivers/2017/Soft_237433.html' target="_blank" class="item_link" title='Èí¼þÃû³Æ£ºÒ×Â¼ÍØÊÓ8200h²É¼¯¿¨Çý¶¯ ¹Ù·½ÕýÊ½°æ&#13;&#10;·¢²¼Ê±¼ä£º2017/9/5 14:26:00'>Ò×Â¼ÍØÊÓ8200h²É¼¯¿¨Çý¶¯ ¹Ù·½ÕýÊ½°æ</a>
+	<span class="date"><font color='#FF0066'>09-05</font></span>
+
+	<li> [<a href='/soft/17/50/index.html' class="node_link">ÉÌÒµÃ³Ò×</a>]  <a href='/soft/17/50/2017/Soft_237431.html' target="_blank" class="item_link" title='Èí¼þÃû³Æ£ºQQofficeÎïÒµ°ì¹«¹ÜÀíÏµÍ³ 2017¹Ù·½°æ&#13;&#10;·¢²¼Ê±¼ä£º2017/9/5 14:25:37'>QQofficeÎïÒµ°ì¹«¹ÜÀíÏµÍ³ 2017¹Ù·½°æ</a>
+	<span class="date"><font color='#FF0066'>09-05</font></span>
+
+	<li> [<a href='/soft/1/16/index.html' class="node_link">ä¯ÀÀ¸¨Öú</a>]  <a href='/soft/1/16/2013/Soft_104266.html' target="_blank" class="item_link" title='Èí¼þÃû³Æ£º°Ù¶ÈÌù°ÉÍÆ¹ã´óÊ¦ 1.6.4.10 ÂÌÉ«°æ&#13;&#10;·¢²¼Ê±¼ä£º2017/9/5 14:23:39'>°Ù¶ÈÌù°ÉÍÆ¹ã´óÊ¦ 1.6.4.10 ÂÌÉ«°æ</a>
+	<span class="date"><font color='#FF0066'>09-05</font></span>
+
+	<li> [<a href='/soft/4/25/index.html' class="node_link">ÔÓÀà¹¤¾ß</a>]  <a href='/soft/4/25/2010/Soft_59956.html' target="_blank" class="item_link" title='Èí¼þÃû³Æ£ºNewFileTime 2.92 ÂÌÉ«°æ_ÐÞ¸ÄÊ±¼ä´Á¼ÇµÈ&#13;&#10;·¢²¼Ê±¼ä£º2017/9/5 14:22:16'>NewFileTime 2.92 ÂÌÉ«°æ_ÐÞ¸ÄÊ±¼ä´Á¼ÇµÈ</a>
+	<span class="date"><font color='#FF0066'>09-05</font></span>
+
+	<li> [<a href='/soft/4/20/index.html' class="node_link">´òÓ¡¹¤¾ß</a>]  <a href='/soft/4/20/2017/Soft_237430.html' target="_blank" class="item_link" title='Èí¼þÃû³Æ£ºÁºÁúÐÅ·â´òÓ¡ v1.1.236 ×îÐÂ°æ&#13;&#10;·¢²¼Ê±¼ä£º2017/9/5 14:22:07'>ÁºÁúÐÅ·â´òÓ¡ v1.1.236 ×îÐÂ°æ</a>
+	<span class="date"><font color='#FF0066'>09-05</font></span>
+
+	<li> [<a href='/soft/6/drivers/index.html' class="node_link">Çý¶¯³ÌÐò</a>]  <a href='/soft/6/drivers/2017/Soft_237429.html' target="_blank" class="item_link" title='Èí¼þÃû³Æ£ºhp5200nÇý¶¯ win7/xp&#13;&#10;·¢²¼Ê±¼ä£º2017/9/5 14:21:31'>hp5200nÇý¶¯ win7/xp</a>
+	<span class="date"><font color='#FF0066'>09-05</font></span>
+
+								</ul>
+								
+							</div>
+						</div>
+						<!-- S ×îÐÂ¸üÐÂ -->					
+					</div>
+					<div class="col_s">
+						<!-- S Èí¼þÍÆ¼ö -->
+						<div class="box_style_a" id="mod_6">
+							<div class="hd">
+								<h3><a href="javascript:void(0);">Èí¼þÍÆ¼ö</a></h3>
+								<div class="extra"><a href="javascript:void(0);" class="more">¸ü¶à>></a></div>
+							</div>
+							<div class="bd">
+								<ul class="p_list_2">
+									<li>
+										<div class="thumb"><a href="/soft/188/215/2008/Soft_40432.html"><img src="/skin/x/images/sample/wps.jpg" /></a></div>
+										<h3><a href="/soft/188/215/2008/Soft_40432.html">WPS Office 2016</a></h3>
+										<div class="hit_sum">ÊÚÈ¨:Ãâ·Ñ</div>
+										<div class="size">5.89MB</div>
+									</li>
+									<li>
+										<div class="thumb"><a href="/soft/8/21/2012/Soft_95819.html"><img src="/skin/x/images/sample/xinduba.gif" /></a></div>
+										<h3><a href="/soft/8/21/2012/Soft_95819.html">ÐÂ¶¾°Ô(Îò¿Õ)</a></h3>
+										<div class="hit_sum">ÊÚÈ¨:Ãâ·Ñ</div>
+										<div class="size">18MB</div>
+									</li>
+									<li>
+										<div class="thumb"><a href="/soft/188/215/2010/Soft_61198.html"><img src="/skin/x/images/sample/office.png" /></a></div>
+										<h3><a href="/soft/188/215/2010/Soft_61198.html">Office 2007</a></h3>
+										<div class="hit_sum">ÊÚÈ¨:¹²Ïí</div>
+										<div class="size">559MB</div>
+									</li>
+									<li>
+										<div class="thumb"><a href="/soft/1/2/2012/Soft_85978.html"><img src="/skin/x/images/sample/bdbrowser.jpg" /></a></div>
+										<h3><a href="/soft/1/2/2012/Soft_85978.html">°Ù¶Èä¯ÀÀÆ÷</a></h3>
+										<div class="hit_sum">ÊÚÈ¨:Ãâ·Ñ</div>
+										<div class="size">5.89MB</div>
+									</li>
+									<li>
+										<div class="thumb"><a href="/soft/40/62/2012/Soft_100005.html"><img src="/skin/x/images/sample/qq.jpg" /></a></div>
+										<h3><a href="/soft/40/62/2012/Soft_100005.html">ÌÚÑ¶QQ 2018</a></h3>
+										<div class="hit_sum">ÊÚÈ¨:Ãâ·Ñ</div>
+										<div class="size">50.9MB</div>
+									</li>
+								</ul>
+							</div>
+						</div>
+						<!-- S Èí¼þÍÆ¼ö -->	<!-- S ÈÈÃÅÈí¼þ -->
+						<div class="box_style_a" id="mod_8">
+							<div class="hd">
+								<h3><a href="javascript:void(0);">ÈÈÃÅÈí¼þ</a></h3>
+								<div class="extra"><a href="javascript:void(0);" class="more">¸ü¶à>></a></div>
+							</div>
+							<div class="bd">
+								<ul class="p_list_4">
+									<li><div class="thumb"><div class="nopicsmall"></div></div><h3> <a href="/soft/1/80/2006/Soft_21398.html" target="_blank" title="Èí¼þÃû³Æ£ºcFosSpeed 10.23.2300 ÖÐÎÄÌØ±ð°æ&#13;&#10;·¢²¼Ê±¼ä£º2017/9/4 7:50:48">cFosSpeed 10.23.2300 ÖÐ</a></h3></li><li><div class="thumb"><img src="/soft/ico/20138281741698655.gif" ></div><h3> <a href="/soft/10/Codec/2012/Soft_86920.html" target="_blank" title="Èí¼þÃû³Æ£ºWindows 8 Codecs 5.5.3 ¹Ù·½¶àÓï°æ&#13;&#10;·¢²¼Ê±¼ä£º2017/8/29 14:08:51">Windows 8 Codecs 5.5.3</a></h3></li><li><div class="thumb"><div class="nopicsmall"></div></div><h3> <a href="/soft/38/105/2010/Soft_65663.html" target="_blank" title="Èí¼þÃû³Æ£ºjquery 3.21×îÐÂ°æ&#13;&#10;·¢²¼Ê±¼ä£º2017/8/28 9:06:11">jquery 3.21×îÐÂ°æ</a></h3></li><li><div class="thumb"><img src="/soft/ico/20144199294228379.png" ></div><h3> <a href="/soft/1/71/2009/Soft_50719.html" target="_blank" title="Èí¼þÃû³Æ£ºnginx v1.13.4 ÎÈ¶¨°æ&#13;&#10;·¢²¼Ê±¼ä£º2017/8/9 18:21:33">nginx v1.13.4 ÎÈ¶¨°æ</a></h3></li><li><div class="thumb"><img src="/soft/ico/201452017534756202.png" ></div><h3> <a href="/soft/10/142/2014/Soft_122734.html" target="_blank" title="Èí¼þÃû³Æ£ºLRTimelapse Pro 4.77 ÂÌÉ«°æ_ÑÓÊ±ÉãÓ°Ïû³ýÉÁË¸Èí¼þ&#13;&#10;·¢²¼Ê±¼ä£º2017/7/28 8:21:45">LRTimelapse Pro 4.77 ÂÌ</a></h3></li><li><div class="thumb"><img src="/soft/ico/201412720533518052.png" ></div><h3> <a href="/soft/6/99/2007/Soft_38471.html" target="_blank" title="Èí¼þÃû³Æ£ºGPU-Z v2.2.0 ÂÌÉ«°æ_gpu zÏÔ¿¨²âÊÔ¹¤¾ß&#13;&#10;·¢²¼Ê±¼ä£º2017/7/10 6:55:25">GPU-Z v2.2.0 ÂÌÉ«°æ_gpu</a></h3></li><li><div class="thumb"><img src="/soft/ico/20144199223211767.png" ></div><h3> <a href="/soft/6/99/2006/Soft_22494.html" target="_blank" title="Èí¼þÃû³Æ£ºÃâ·ÑÐéÄâ»ú(VMware Workstation Player) 12.5.2&#13;&#10;·¢²¼Ê±¼ä£º2017/7/9 14:42:28">Ãâ·ÑÐéÄâ»ú(VMware Works</a></h3></li><li><div class="thumb"><div class="nopicsmall"></div></div><h3> <a href="/soft/6/54/2007/Soft_35301.html" target="_blank" title="Èí¼þÃû³Æ£ºIntel Processor Identification Utility 5.7 ÖÐÎÄÂÌÉ«°æ_Ó¢ÌØ¶ûCPUÆµÂÊ¼ì²â&#13;&#10;·¢²¼Ê±¼ä£º2017/7/9 8:25:28">Intel Processor Identif</a></h3></li><li><div class="thumb"><img src="/soft/ico/20137121518054374.gif" ></div><h3> <a href="/soft/1/70/2006/Soft_34255.html" target="_blank" title="Èí¼þÃû³Æ£ºBitComet(±ÈÌØåçÐÇ) V1.46 ÂÌÉ«¶àÓï°æ_ÏÂÔØbt±Ø±¸µÄ¹¤¾ß&#13;&#10;·¢²¼Ê±¼ä£º2017/7/7 13:45:36">BitComet(±ÈÌØåçÐÇ) V1.4</a></h3></li><li><div class="thumb"><img src="/soft/ico/201371123531240886.gif" ></div><h3> <a href="/soft/10/47/2007/Soft_36345.html" target="_blank" title="Èí¼þÃû³Æ£º°Ù¶ÈÒôÀÖ(TTPlayer)  v10.2.2.0 ¹Ù·½°æ&#13;&#10;·¢²¼Ê±¼ä£º2017/6/30 11:54:57">°Ù¶ÈÒôÀÖ(TTPlayer)  v10</a></h3></li><li><div class="thumb"><div class="nopicsmall"></div></div><h3> <a href="/soft/4/85/2006/Soft_2767.html" target="_blank" title="Èí¼þÃû³Æ£ºWinHex v19.3 ÖÐÎÄÂÌÉ«°æ_16½øÖÆ±à¼­Æ÷&#13;&#10;·¢²¼Ê±¼ä£º2017/6/15 12:50:19">WinHex v19.3 ÖÐÎÄÂÌÉ«°æ</a></h3></li><li><div class="thumb"><img src="/soft/ico/201310129513232720.gif" ></div><h3> <a href="/soft/6/152/2008/Soft_40127.html" target="_blank" title="Èí¼þÃû³Æ£ºCore Temp 1.81_¿áî£cpu ÎÂ¶ÈÌ½Õë&#13;&#10;·¢²¼Ê±¼ä£º2017/6/12 8:03:54">Core Temp 1.81_¿áî£cpu</a></h3></li>
+								</ul>
+							</div>
+						</div>
+						<!-- S ÈÈÃÅÈí¼þ -->	
+					</div>
+				</div>
+				
+			</div>
+			<div class="col_side">
+				<!-- S Èí¼þ·ÖÀà -->
+				<div class="box_style_a" id="mod_4">
+					<div class="hd">
+						<h3>Èí¼þ·ÖÀà</h3>
+						<div class="extra"><a href="/support/sitemap.asp" class="more">¸ü¶à>></a></div>
+					</div>
+					<div class="bd">
+						<ul class="node_list">
+							<li>
+								<h4><a href="/soft/1/">ÍøÂç¹¤¾ß</a></h4>
+								<div class="nodes"><a href="/soft/1/2/">ä¯ÀÀÆ÷</a> &nbsp;&nbsp;|<a href="/soft/1/70/">ÏÂÔØ¹¤¾ß</a>|<a href="/soft/1/118/">Ô¶³Ì¿ØÖÆ</a><a href="/soft/1/87/">ÓÊ¼þ´¦Àí</a>|<a href="/soft/1/98/">FTP¹¤¾ß</a>&nbsp;|<a href="/soft/1/78/">IP¹¤¾ß</a>&nbsp; <a href="/soft/1/120/">ÍøÂçÍÆ¹ã</a>|<a href="/soft/1/95/">ÍøÒ³ÖÆ×÷</a>|<a href="/soft/1/44/">ÍøÂç¸¨Öú</a></div>
+							</li>
+							<li class="even">
+								<h4><a href="/soft/4/">Ó¦ÓÃÈí¼þ</a></h4>
+								<div class="nodes"><a href="/soft/4/49/">ÊäÈë·¨Àà</a>|<a href="/soft/4/14/">Ñ¹Ëõ½âÑ¹</a>|<a href="/soft/4/163/">Êý¾Ý»Ö¸´</a><a href="/soft/4/136/">µç×ÓÔÄ¶Á</a>|<a href="/soft/4/111/">ÐÅÏ¢¹ÜÀí</a>|<a href="/soft/4/258/">PDFÈí¼þ</a></div>
+							</li>
+							<li>
+								<h4><a href="/soft/6/">ÏµÍ³¹¤¾ß</a></h4>
+								<div class="nodes"><a href="/soft/6/198/">¿ìËÙÆô¶¯</a>|<a href="/soft/6/162/">ÄÚ´æ¹¤¾ß</a>|<a href="/soft/6/boot/">Æô¶¯ÅÌÀà</a><a href="/soft/6/56/">ÏµÍ³¸¨Öú</a>|<a href="/soft/6/drivers/">Çý¶¯³ÌÐò</a>|<a href="/soft/6/152/">CPUÏà¹Ø</a><a href="/soft/6/12/">Ð¶ÔØÇå³ý</a>|<a href="/soft/6/54/">ÏµÍ³²âÊÔ</a>|<a href="/soft/6/119/">Êý¾Ý±¸·Ý</a></div>
+							</li>
+							<li class="even">
+								<h4><a href="/soft/8/">°²È«¹¤¾ß</a></h4>
+								<div class="nodes"><a href="/soft/8/9/">ÏµÍ³°²È«</a>|<a href="/soft/8/19/">ÍøÂç°²È«</a>|<a href="/soft/8/21/">É±¶¾Èí¼þ</a><a href="/soft/8/114/">ÃÜÂëÆÆ½â</a>|<a href="/soft/8/64/">¼ÓÃÜ½âÃÜ</a>|<a href="/soft/8/79/">ÃÜÂë±£»¤</a></div>
+							</li>
+							<li>
+								<h4><a href="/soft/10/">Ã½ÌåÈí¼þ</a></h4>
+								<div class="nodes"><a href="/soft/10/177/">ÒôÆµÈí¼þ</a>|<a href="/soft/10/176/">ÊÓÆµÈí¼þ</a>|<a href="/soft/10/86/">ÒôÆµ×ª»»</a><a href="/soft/10/35/">ÊÓÆµ×ª»»</a>|<a href="/soft/10/47/">Ã½Ìå²¥·Å</a>|<a href="/soft/10/Codec/">½âÂëÆ÷</a></div>
+							</li>
+							<li class="even">
+								<h4><a href="/soft/31/">Í¼ÏñÍ¼ÐÎ</a></h4>
+								<div class="nodes"><a href="/soft/31/221/">CADÈí¼þ</a>|<a href="/soft/31/32/">¶¯»­ÖÆ×÷</a>|<a href="/soft/31/109/">3DÖÆ×÷</a><a href="/soft/31/91/">¿´Í¼Èí¼þ</a>|<a href="/soft/31/93/">Í¼Æ¬´¦Àí</a>|<a href="/soft/31/46/">½ØÍ¼Èí¼þ</a></div>
+							</li>
+							<li class="even">
+								<h4><a href="/soft/40/">ÁªÂçÁÄÌì</a></h4>
+								<div class="nodes"><a href="/soft/40/62/">QQ×¨Çø</a>&nbsp;|<a href="/soft/40/74/">ÍøÂçµç»°</a>|<a href="/soft/40/89/">¼´Ê±Í¨Ñ¶</a></div>
+							</li>
+
+							<li>
+								<h4><a href="/soft/184/">ÆäËû¹¤¾ß</a></h4>
+								<div class="nodes"><a href="/soft/188/215/">°ì¹«Èí¼þ</a>|<a href="/soft/188/194/">¼ÇÊÂÈí¼þ</a>|<a href="/soft/188/share/">×ÊÁÏÎÄµµ</a><a href="/soft/184/webshop/">ÍøµêÈí¼þ</a>|<a href="/soft/184/apple/">Æ»¹ûÈí¼þ</a>|<a href="/soft/184/Mobile/">ÊÖ»úÈí¼þ</a><a href="/soft/27/path/">ÓÎÏ·¸¨Öú</a>|<a href="/soft/23/76/">ÍâÓïÑ§Ï°</a>|<a href="/soft/23/115/">ÌìÎÄµØÀí</a><a href="/soft/38/pe/">¼Ó¿ÇÍÑ¿Ç</a>|<a href="/soft/38/121/">±à³Ì¹¤¾ß</a>|<a href="/soft/184/Linux/">LinuxÈí¼þ</a></div>
+							</li>
+							
+						</ul>
+					</div>
+				</div>
+				
+
+
+	<div id="footer">
+		<div id="site_link"><a rel="nofollow" href="/support/about.asp">¾èÖúÎÒÃÇ</a> | <a rel="nofollow" href="/support/help.asp" target="_blank">°ïÖú(£¿)</a> | <a "rel="nofollow" href="/support/advertise.asp" ">ÁªÏµÎÒÃÇ</a> | <a rel="nofollow" href="/support/declare.asp" target="_blank">°æÈ¨ÉùÃ÷</a> | <a  rel="nofollow" href="http://bbs.xdowns.com/pub/" target="_blank">Èí¼þ·¢²¼</a> | <a href="/support/sitemap.asp" target="_blank">ÍøÕ¾µØÍ¼</a> | <a href="/soft/rssfeednew.asp">RSS</a> </div>
+		<div id="site_copyright">
+			<p>ÔÁICP±¸09007420 ÂÌÃËxDowns.com</p>
+		</div>
+		
+	</div>
+</div>
+
+
+</body>
+</html>
+

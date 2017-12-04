@@ -62,19 +62,19 @@ def test_hm_random():
                     num_tj[9] = num_tj[9]+1
                 if num == 10:
                     num_tj[10] = num_tj[10]+1
-            print num_tj
+            print (num_tj)
 
             if eee == 0:
                 num_start = []
                 num_start = num_start + num_tj
             if eee == 10:
                 num_end = num_tj
-                print num_end
-                print num_start
+                print (num_end)
+                print (num_start)
                 ita = iter(num_end)
                 itb = iter(num_start)
                 num_bl = []
-                for num in range(11):
+                for num in range(6):
                    num_bl.append(itb.next()/ita.next())
                 X1 = range(0, 11)
                 Y1 = num_bl
@@ -92,5 +92,5 @@ def test_hm_random():
 
 
 if __name__ == '__main__':
-    print 1
+    print (1)
     test_hm_random()

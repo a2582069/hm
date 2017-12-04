@@ -5,12 +5,12 @@ import hmmath
 
 def _easy_wei(gn,a,b,c,d,e,isprint = None):
     if isprint == 1:
-        print 'gn = ' + str(gn)
-        print 'a = ' + str(a)
-        print 'b = ' + str(b)
-        print 'c = ' + str(c)
-        print 'd = ' + str(d)
-        print 'e = ' + str(e)
+        print ('gn = ' + str(gn))
+        print ('a = ' + str(a))
+        print ('b = ' + str(b))
+        print ('c = ' + str(c))
+        print ('d = ' + str(d))
+        print ('e = ' + str(e))
 
     if gn == 1:
         a[c[0]] = 1
