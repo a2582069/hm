@@ -1,7 +1,7 @@
 #-*-coding = utf-8 -*-
 import chardet
 import urllib.request as req
-from lxml import etree
+#from lxml import etree
 import requests
 def hm_open(url,coding,filename):
     filename = filename + '.html'
